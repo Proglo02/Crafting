@@ -5,12 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/S_Recyclable.uasset",
 				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/S_CraftingComponent.uasset",
 				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/BP_Item.uasset",
 				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/S_CraftingRecipe.uasset",
-				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/BP_CraftingStation.uasset",
-				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Objects/BP_CraftingStation.uasset",
 				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Objects/CraftingStations/BP_CraftingStation.uasset",
 				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/ActorComponents/BP_Interactable.uasset",
 				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/NewMap_HLOD0_Instancing.uasset",
@@ -144,7 +141,26 @@
 				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/__ExternalActors__/NewMap/E/WM/39Q9BJDNXE861JLPOAO0H9.uasset",
 				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/__ExternalActors__/NewMap/1/E6/L3JILD6A5CB471APHV4MJV.uasset",
 				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/__ExternalActors__/NewMap/B/0C/Y6RMGI0XV9U8TEWGGUD8UY.uasset",
-				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/NewMap.umap"
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/NewMap.umap",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Weapons/BP_WeaponItem.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/E_ItemType.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Resources/E_ResourceType.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Resources/Manifactured/Weaponry/Barrels/BP_WeaponBarrelItem.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Resources/BP_ResourceItem.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Resources/Manifactured/Machining/Weaponry/Barrels/BP_WeaponBarrelItem.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Resources/Manifactured/Machining/Springs/BP_SpringItem.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Resources/Manifactured/Machining/Weaponry/Frames/BP_WeaponFrameItem.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Resources/Manifactured/Machining/Weaponry/Sliders/BP_WeaponSliderResource.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Resources/Manifactured/Machining/Weaponry/Triggers/BP_WeaponTriggerItem.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Weapons/Pistols/BP_PistolItem.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/DT_CraftingRecipe.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/DT_CraftingRecipes.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Objects/CraftingStations/DT_CraftingStationRecipes.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/Resources/Manifactured/Machining/Weaponry/Sliders/BP_WeaponSliderItem.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/UI/Menues/Crafting/WB_CraftingMenu.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/S_Recyclable.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Items/BP_CraftingStation.uasset",
+				"C:/Users/pontu/OneDrive/Dokument/Unreal Projects/Crafting/Content/Blueprints/Objects/BP_CraftingStation.uasset"
 			]
 		}
 	]
